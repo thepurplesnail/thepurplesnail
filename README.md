@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🔭 I’m currently working on my Tech Connect training!
+🌱 I’m currently learning how to set up github!
